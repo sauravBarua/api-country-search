@@ -1,0 +1,21 @@
+/**
+ * Main color: #0475ba
+ * Secondary color: #FFFFFF
+ */
+
+body {
+    background: #0475ba;
+    color: #FFFFFF;
+}
+
+.navbar-brand img {
+    width: 70px;
+}
+
+#exercise {
+    position: relative;
+    background-color: #FFFFFF;
+    height: 500px;
+    padding: 20px;
+    color: #000000;
+}
